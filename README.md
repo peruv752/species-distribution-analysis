@@ -53,7 +53,8 @@ install.packages(c("tidyverse", "ggplot2", "corrplot", "randomForest",
 
 Running the Analysis
 Clone this repository:
-git clone https://github.com/yourusername/species-distribution-analysis.git
+git clone https://github.com/peru752/species-distribution-analysis.git
+
 cd species-distribution-analysis
 
 Open analysis.R in RStudio
